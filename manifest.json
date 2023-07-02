@@ -1,5 +1,4 @@
 {
- "background_color": "#000000",
  "name": "ESCRITORIO 360 MARCO",
  "icons": [
   {
@@ -38,7 +37,8 @@
    "sizes": "64x64"
   }
  ],
- "start_url": "index.htm",
  "display": "fullscreen",
+ "background_color": "#000000",
+ "start_url": "index.htm",
  "theme_color": "#000000"
 }
